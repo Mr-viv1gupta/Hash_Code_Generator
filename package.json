@@ -1,0 +1,30 @@
+{
+  "name": "hash_code_generator",
+  "version": "1.0.0",
+  "description": "This Code is All Hash Code Generator. You can type your string and Get any Hash Code as you want.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-viv1gupta/Hash_Code_Generator.git"
+  },
+  "keywords": [
+    "Hash",
+    "Code",
+    "Generators",
+    "MD5",
+    "MD2",
+    "Hash",
+    "Code",
+    "Sha1",
+    "sha224"
+  ],
+  "author": "Vivek Kumar::Mr-viv1gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mr-viv1gupta/Hash_Code_Generator/issues"
+  },
+  "homepage": "https://github.com/Mr-viv1gupta/Hash_Code_Generator#readme"
+}
